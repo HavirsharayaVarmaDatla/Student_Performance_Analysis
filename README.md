@@ -7,7 +7,7 @@ Power BI
 **Project Overview:**
 This project analyzes student performance data to understand the impact of factors like study time, parental education, and lifestyle on academic results.
 
-** Key Visualizations:**
+**Key Visualizations:**
 Student score distribution,
 Study time vs performance,
 Gender-based performance comparison,
